@@ -1,3 +1,4 @@
+[![Build Status](https://krkandavel.visualstudio.com/k_r_kandavel/_apis/build/status/KRKandavel.pipelines-java?branchName=master)](https://krkandavel.visualstudio.com/k_r_kandavel/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
